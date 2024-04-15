@@ -33,7 +33,7 @@
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-F05032?style=flat-square&logo=typescript&logoColor=white&color=007ACC" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F05032?style=flat-square&logo=javascript&logoColor=white&color=f7df1e" />
 </p>
-<!-- <img src="https://raw.githubusercontent.com/sharozraees802/sharozraees802/master/statics/image/imsheroz.png"/> -->
+<img src="https://github.com/MuhammadMoiz200099/MuhammadMoiz200099/blob/main/statics/immoiz.jpg"/>
  <hr></hr>
 <h3>Find & contact me</h3>
 <p>
