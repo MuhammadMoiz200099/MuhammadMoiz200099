@@ -13,7 +13,7 @@
   title="Like Sharoz's work? Buy him a coffee"
   class="bmac"
   href="https://www.buymeacoffee.com/muhammadmoj">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhd.ahsanayaz&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=muhdahsanayaz" />
 </a>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -66,6 +66,4 @@
   </a>
 </p>
  <hr></hr>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MuhammadMoiz200099&label=Profile%20Views&pretty=false" />
-</a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MuhammadMoiz200099&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
