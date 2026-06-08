@@ -274,6 +274,11 @@ Click on the icon to see the associated repository
 
 </details>
  <hr></hr>
+
+<details open>
+  
+<summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
+ 
 <div align="center">
   
 <!-- GitHub Streak Stats -->
@@ -283,3 +288,42 @@ Click on the icon to see the associated repository
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=muhammadmoiz200099&theme=flag-india" alt="GitHub Streak Stats">
 </picture>
 </div>
+
+<div align="center">
+
+  <!-- Github Metrics -->
+<picture>
+  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=muhammadmoiz200099&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=muhammadmoiz200099&show_icons=true&theme=flag-india">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=muhammadmoiz200099&show_icons=true&theme=flag-india" alt="Github Metrics">
+</picture>
+
+<br>
+
+<!-- Repos per Language -->
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadmoiz200099&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadmoiz200099&theme=flag_india">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadmoiz200099&theme=flag_india" alt="Repos per Language">
+</picture>
+  
+<!-- Most Committed Language -->
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadmoiz200099&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadmoiz200099&theme=flag_india">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadmoiz200099&theme=flag_india" alt="Most Commit Language">
+</picture>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadmoiz200099/muhammadmoiz200099/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadmoiz200099/muhammadmoiz200099/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadmoiz200099/muhammadmoiz200099/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
+</details>
