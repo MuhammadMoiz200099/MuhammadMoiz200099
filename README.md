@@ -7,10 +7,8 @@
 <h1></h1>
 <h3>☁️ Do consider Checking my <a href="https://muhammadsheroz.vercel.app/" target="_blank">portfolio 🔗</a> </h3>
 
-<h1></h1>
-<hr></hr>
 <a href="https://www.buymeacoffee.com/muhammadmoj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-
+<br>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
