@@ -9,12 +9,8 @@
 
 <h1></h1>
 <hr></hr>
-<a
-  title="Like Sharoz's work? Buy him a coffee"
-  class="bmac"
-  href="https://www.buymeacoffee.com/muhammadmoj">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=muhdahsanayaz" />
-</a>
+<a href="https://www.buymeacoffee.com/muhammadmoj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
